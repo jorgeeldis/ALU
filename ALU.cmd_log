@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/ALU/ALU.xst" -ofn "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/ALU/ALU.syr" 

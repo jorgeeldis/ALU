@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/ALU/ALU_TB_isim_beh.exe" -prj "C:/MyStuff/College/Universidad Tecnologica de Panama/Year IV/Microprocesadores/ALU/ALU_TB_beh.prj" "work.ALU_TB" 
